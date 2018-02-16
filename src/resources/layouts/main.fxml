@@ -29,10 +29,12 @@
 
           <MenuItem
             fx:id="newGame"
-            text="%newGameTitle" />
+            text="%newGameTitle"
+          onAction="#newGame"/>
 
           <MenuItem
             fx:id="quit"
+            onAction="#quit"
             text="%quitTitle" />
 
         </items>
