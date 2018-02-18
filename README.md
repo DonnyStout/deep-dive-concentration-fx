@@ -13,5 +13,6 @@ played in a single sitting.
 
 To start a new game you must select so from the pulldown menu under File.
 
-Still to be implemented is an auto-restart, or an ask for a new game
-once all matches have been found.
+After every game finishes an alert box will open and ask if you would like
+to play again. Yes will start a new game, no quits the game, and cancel
+closes the menu.
