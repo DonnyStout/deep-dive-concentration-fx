@@ -18,6 +18,17 @@ FlowPane {
   -fx-padding: 8px;
 }
 
+/*FlowPane.5x5 {*/
+  /*-fx-column-halignment: center;*/
+  /*-fx-row-valignment: center;*/
+  /*-fx-orientation: horizontal;*/
+  /*-fx-pref-width: 872px;*/
+  /*-fx-pref-height: 728px;*/
+  /*-fx-hgap: 8px;*/
+  /*-fx-vgap: 8px;*/
+  /*-fx-padding: 8px;*/
+/*}*/
+
 ToggleButton.tile {
   -fx-pref-width: 136px;
   -fx-min-width: 136px;
